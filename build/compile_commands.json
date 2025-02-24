@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/Users/maxfu/Desktop/Code/Quant/OrderBook/build",
-  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/maxfu/Desktop/Code/Quant/OrderBook -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -o CMakeFiles/orderbook.dir/main.cpp.o -c /Users/maxfu/Desktop/Code/Quant/OrderBook/main.cpp",
-  "file": "/Users/maxfu/Desktop/Code/Quant/OrderBook/main.cpp",
-  "output": "CMakeFiles/orderbook.dir/main.cpp.o"
-}
-]
